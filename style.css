@@ -389,6 +389,7 @@ section .title::after{
 .skills-content .right .aiagent::before{
     width: 50%;
 }
+
 /* teams section styling */
 .projects .title::after{
     content: "what are my current projects";
